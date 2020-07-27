@@ -21,13 +21,12 @@ docker-compose --build up
 
 3- Via IDE.</br>
 Importe o projto como maven project e então rode ele como um projeto spring boot.</br>
-Conso estaja no Eclipse:</br>
 
 4- Abra http://localhost:8080
 ![Api](https://user-images.githubusercontent.com/36086251/88590778-a5b07000-d031-11ea-9e82-29fc2f67178a.png)
 
-Pronto o servidor está de pé. </br>
-Na imagens consta o senguinde endereço http://192.168.99.100:8080/ => pois uso ToolBox. Normalmente Docker libera no localhost.
+Pronto, o servidor está de pé. </br>
+Na imagem consta o senguinde endereço http://192.168.99.100:8080/ => pois, eu usei ToolBox. Normalmente Docker libera no localhost.
 
 
 <h5>Testes </h5>
@@ -40,7 +39,7 @@ para
 ````
     ddl-auto:create
 ````
-Certifiquese que que o H2 não está sendo usado. 
+Certifique-se que o H2 não está sendo usado. 
 
 
 <h1>REACT APP </h1>

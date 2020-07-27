@@ -26,11 +26,11 @@ Conso estaja no Eclipse:
 1- abra a pasta app
 ````
   cd app/
-  ````
+````
 2 - rode o script:
 ````
  npm install && npm start.
- ````
+````
 
 3 Abra http://localhost:3000
  

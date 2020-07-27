@@ -26,8 +26,8 @@ Conso estaja no Eclipse:
 4- Abra http://localhost:8080
 ![Api](https://user-images.githubusercontent.com/36086251/88590778-a5b07000-d031-11ea-9e82-29fc2f67178a.png)
 
-Pronto o servidor está de pé.
-Na imagens conta http://192.168.99.100:8080/ => pois uso ToolBox. Normalmente Docker libera no localhost.
+Pronto o servidor está de pé. </br>
+Na imagens consta o senguinde endereço http://192.168.99.100:8080/ => pois uso ToolBox. Normalmente Docker libera no localhost.
 
 
 <h5>Testes </h5>

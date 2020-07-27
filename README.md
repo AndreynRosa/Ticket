@@ -1,7 +1,7 @@
 # Ticket project.
 
 <h1>API JAVA</h1>
-Para build com maven basta ir para pasta API.
+Como buildar e subir o Projeto 
 1 - Com docker.
 Subindo serviço com dockers:
 

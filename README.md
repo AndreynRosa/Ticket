@@ -17,6 +17,18 @@ docker run -p 8080:8080 -d vote_api
 ````
 docker-compose --build up
 ````
+<h5>Testes </h5>
+Para rodar os testes troque
+
+````
+    ddl-auto: update  
+````
+para
+````
+    ddl-auto:create
+````
+Certifiquese que que o H2 não está sendo usado. 
+
 3- Via IDE.
 Importe o projto como maven project. Rode ele como um projeto spring boot.
 Conso estaja no Eclipse:

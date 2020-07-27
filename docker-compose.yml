@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  api:
+    image: vote_api   
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    networks:
+      - scc4-network
+    volumes:
+      - /path/to/local/data_dir:/opt/h2-data
+
+networks:
+  scc4-network:
+    driver: bridge

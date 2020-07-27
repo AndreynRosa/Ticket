@@ -4,6 +4,7 @@
 Para build com maven basta ir para pasta API.
 1 - Com docker.
 Subindo serviço com dockers:
+
 ````
 docker build -t api
 ````

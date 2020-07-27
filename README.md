@@ -17,6 +17,16 @@ docker run -p 8080:8080 -d vote_api
 ````
 docker-compose --build up
 ````
+
+
+3- Via IDE.
+Importe o projto como maven project. Rode ele como um projeto spring boot.
+Conso estaja no Eclipse:
+
+4- Abra http://localhost:8080
+![Api](https://user-images.githubusercontent.com/36086251/88590531-43576f80-d031-11ea-8d99-08b0a3f8e4f4.png)
+
+
 <h5>Testes </h5>
 Para rodar os testes troque
 
@@ -29,11 +39,6 @@ para
 ````
 Certifiquese que que o H2 não está sendo usado. 
 
-3- Via IDE.
-Importe o projto como maven project. Rode ele como um projeto spring boot.
-Conso estaja no Eclipse:
-
-4- Abra http://localhost:8080
 
 <h1>REACT APP </h1>
 1- abra a pasta app

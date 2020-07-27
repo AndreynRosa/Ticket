@@ -1,7 +1,7 @@
 # Ticket project.
 
 <h1>API JAVA</h1></br>
-Como buildar e subir o Projeto </br>
+Como buildar e subir o projeto </br>
 1 - Com docker.
 Subindo serviço com dockers:
 

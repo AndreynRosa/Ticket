@@ -20,7 +20,7 @@ docker-compose --build up
 
 
 3- Via IDE.</br>
-Importe o projto como maven project e então rode ele como um projeto spring boot.</br>
+Importe o projeto como maven project e então rode ele como um projeto spring boot.</br>
 
 4- Abra http://localhost:8080
 ![Api](https://user-images.githubusercontent.com/36086251/88590778-a5b07000-d031-11ea-9e82-29fc2f67178a.png)

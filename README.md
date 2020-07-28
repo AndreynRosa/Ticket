@@ -54,7 +54,7 @@ Certifique-se que o H2 não está sendo usado.
 ````
 npm install && npm start.
 ````
-No arquivo config dentro do src, verique qual url está sendo apontada. Certifique-se de apontar para api.
+No arquivo config dentro do src, verique qual url está sendo apontada. Certifique-se de apontar para api.<br/>
 3 Abra http://localhost:3000
 
 
